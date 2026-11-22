@@ -1,0 +1,17 @@
+# Raw dataset
+data/creditcard.csv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment and system files
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+desktop.ini
