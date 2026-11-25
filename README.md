@@ -94,11 +94,24 @@ An interactive Power BI dashboard was developed to explore transaction patterns 
 
 ### Dashboard Preview
 
-Add your dashboard screenshots to the `Images` folder and display them here.
-
-<!-- Replace these filenames with your actual dashboard screenshot filenames. -->
-
+### Dashboard Overview
 ![Dashboard Overview](Images/dashboard_overview.png)
+
+### Fraud Analysis
+![Fraud Analysis](Images/fraud_analysis.png)
+
+### Interactive Filters
+![Interactive Filters](Images/interactive_filters.png)
+
+
+## Project Demonstration
+
+### Short Dashboard Preview
+[▶ Watch the short Power BI dashboard demonstration](https://youtu.be/JqOlvv-trFA)
+
+### Detailed Dashboard Walkthrough
+[▶ Watch the detailed Power BI dashboard walkthrough](https://youtu.be/qPXMjg227mY)
+
 
 ## Project Structure
 
